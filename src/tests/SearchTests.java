@@ -43,6 +43,7 @@ public class SearchTests extends CoreTestCase {
     }
 
     //Тест по уроку Ex6
+    @Test
     public void test_l3_Ex6() {
         SearchPageObject SearchPageObject = new SearchPageObject(driver);
 

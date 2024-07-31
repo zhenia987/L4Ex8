@@ -4,17 +4,9 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="f0fd8d06-0233-4d79-ad8e-b28cd2653c86" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/java_client_4_1_2.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/junit_4_12.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/selenium_server_standalone_3_4_0.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/L4Ex8.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Main.java" afterDir="false" />
+    <list default="true" id="f0fd8d06-0233-4d79-ad8e-b28cd2653c86" name="Changes" comment="Hw_8">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/L4Ex8.java" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/src/tests/ArticlesTests.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/tests/ArticlesTests.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/tests/SearchTests.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/tests/SearchTests.java" afterDir="false" />
     </list>
@@ -50,14 +42,16 @@
     "JUnit.L4Ex8.testSafeFirstArticleToMyList.executor": "Run",
     "JUnit.L4Ex8.test_l3_Ex6.executor": "Run",
     "JUnit.L4Ex8.test_l3_ex3.executor": "Run",
+    "JUnit.SearchTests.test_l3_Ex6.executor": "Run",
+    "JUnit.SearchTests.test_l3_ex3.executor": "Run",
     "RunOnceActivity.ShowReadmeOnStart": "true",
     "SHARE_PROJECT_CONFIGURATION_FILES": "true",
     "kotlin-language-version-configured": "true",
     "last_opened_file_path": "/Users/mbpro/Desktop/JavAppiumAutomation/L4Ex8/L4Ex8/src/lib/ui",
-    "project.structure.last.edited": "Libraries",
+    "project.structure.last.edited": "Project",
     "project.structure.proportion": "0.15",
-    "project.structure.side.proportion": "0.0",
-    "settings.editor.selected.configurable": "preferences.lookFeel"
+    "project.structure.side.proportion": "0.2",
+    "settings.editor.selected.configurable": "org.jetbrains.plugins.github.ui.GithubSettingsConfigurable"
   }
 }]]></component>
   <component name="RecentsManager">
@@ -68,7 +62,7 @@
       <recent name="lib" />
     </key>
   </component>
-  <component name="RunManager" selected="JUnit.L4Ex8.test_l3_Ex6">
+  <component name="RunManager" selected="JUnit.SearchTests.test_l3_ex3">
     <configuration name="L4Ex8.testSafeFirstArticleToMyList" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
       <module name="L4Ex8" />
       <option name="PACKAGE_NAME" value="" />
@@ -99,8 +93,42 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
+    <configuration name="SearchTests.test_l3_Ex6" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="L4Ex8" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="tests.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="tests" />
+      <option name="MAIN_CLASS_NAME" value="tests.SearchTests" />
+      <option name="METHOD_NAME" value="test_l3_Ex6" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="SearchTests.test_l3_ex3" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="L4Ex8" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="tests.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="tests" />
+      <option name="MAIN_CLASS_NAME" value="tests.SearchTests" />
+      <option name="METHOD_NAME" value="test_l3_ex3" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="JUnit.SearchTests.test_l3_ex3" />
+        <item itemvalue="JUnit.SearchTests.test_l3_Ex6" />
         <item itemvalue="JUnit.L4Ex8.test_l3_Ex6" />
         <item itemvalue="JUnit.L4Ex8.testSafeFirstArticleToMyList" />
         <item itemvalue="JUnit.L4Ex8.test_l3_ex3" />
@@ -116,6 +144,19 @@
       <option name="presentableId" value="Default" />
       <updated>1722252544491</updated>
     </task>
+    <task id="LOCAL-00001" summary="Hw_8">
+      <option name="closed" value="true" />
+      <created>1722437521729</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1722437521729</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
     <servers />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="Hw_8" />
+    <option name="LAST_COMMIT_MESSAGE" value="Hw_8" />
   </component>
 </project>

@@ -5,11 +5,12 @@ import lib.ui.ArticlePageObject;
 import lib.ui.MyListPageObject;
 import lib.ui.NavigationUI;
 import lib.ui.SearchPageObject;
+import org.junit.Test;
 
 public class ArticlesTests extends CoreTestCase {
 
     //Напишем тест L4Ex5
-
+    @Test
     public void testSafeFirstArticleToMyList() {
         SearchPageObject SearchPageObject = new SearchPageObject(driver);
 
